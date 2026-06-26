@@ -1,0 +1,16 @@
+customer_id,name,email,loyalty_level,total_orders,vip,account_status,signup_date,last_order_date,fraud_flag
+1,John Doe,john@test.com,Gold,15,True,active,2020-05-10,2026-06-01,False
+2,Alice Smith,alice@test.com,Silver,7,False,active,2021-11-22,2026-05-15,False
+3,Bob Lee,bob@test.com,Premium,25,True,active,2018-03-03,2026-06-10,False
+4,Chen Wei,chen.wei@test.com,Premium,40,True,active,2016-09-14,2026-06-12,False
+5,Maria Gonzalez,maria.g@test.com,Gold,12,False,active,2019-01-30,2026-04-20,False
+6,Amrita Patel,amrita@test.com,Silver,3,False,active,2025-12-01,2026-01-12,False
+7,Samir Khan,samir.k@test.com,New,0,False,active,2026-06-05,,False
+8,Leah O'Connor,leah.oc@test.com,New,1,False,active,2026-06-12,2026-06-15,False
+9,Olivia Brown,olivia.b@test.com,Premium,55,True,active,2015-07-07,2026-06-14,False
+10,Victor Rossi,victor.r@test.com,Gold,20,True,active,2017-10-18,2026-05-30,False
+11,Grace Liu,grace.l@test.com,Silver,5,False,suspended,2022-02-02,2024-11-01,True
+12,Fake Account,fake.user@test.com,New,0,False,blocked,2026-06-10,,True
+13,NoReply,no.reply@invalid,Gold,8,False,active,2020-08-08,2026-03-03,False
+14,Arjun Nair,arjun.nair@test.com,Premium,30,True,active,2019-04-25,2026-06-11,False
+15,Corporate Accts,corp.accounts@test.com,Enterprise,120,True,active,2014-01-01,2026-06-16,False

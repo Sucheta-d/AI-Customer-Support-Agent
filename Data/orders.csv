@@ -1,0 +1,29 @@
+order_id,customer_id,product,category,price,purchase_date,delivered,packaging_available,delivery_status_note
+101,1,Headphones,Electronics,200,2026-05-01,True,True,delivered_ok
+102,2,Ebook,Digital,20,2026-06-01,True,False,delivered_ok
+103,3,Smartphone,Electronics,900,2026-06-10,False,True,in_transit
+104,4,Noise Cancelling Headphones,Electronics,350,2026-04-15,True,False,delivered_damaged
+105,5,Gift Card,Digital,50,2026-06-12,True,False,delivered_ok
+106,6,USB-C Cable,Electronics,15,2026-06-03,True,True,delivered_ok
+107,7,Online Course,Digital,120,2026-06-14,True,False,delivered_ok
+108,8,Wireless Mouse,Electronics,45,2026-06-16,True,True,delivered_ok
+109,9,4K Monitor,Electronics,480,2026-05-20,True,True,delivered_ok
+110,10,External SSD,Electronics,150,2026-03-28,True,False,delivered_damaged
+111,11,Antivirus Subscription,Digital,30,2026-02-01,True,False,delivered_ok
+112,12,Ebook Bundle,Digital,35,2026-06-11,True,False,delivered_ok
+113,13,Smartwatch,Electronics,220,2026-06-02,False,True,awaiting_delivery
+114,14,Gaming Chair,Furniture,300,2026-05-05,True,True,delivered_ok
+115,15,Enterprise Software License,Digital,1200,2026-01-10,True,False,delivered_ok
+116,1,Portable Charger,Electronics,40,2026-06-08,True,False,delivered_ok
+117,2,Desktop Wallpaper Pack,Digital,10,2026-05-25,True,False,delivered_ok
+118,3,Bluetooth Speaker,Electronics,85,2026-06-15,True,True,delivered_ok
+119,4,Laptop Stand,Electronics,60,2026-04-01,True,True,delivered_ok
+120,5,Photo Editing App Subscription,Digital,8,2026-06-17,True,False,delivered_ok
+121,6,HDMI Cable,Electronics,12,2026-03-01,True,False,delivered_ok
+122,7,Cloud Storage Upgrade,Digital,99,2026-06-05,True,False,delivered_ok
+123,8,Action Camera,Electronics,320,2026-05-28,True,False,delivered_damaged
+124,9,Wireless Earbuds,Electronics,120,2026-06-09,True,True,delivered_ok
+125,10,Printer Ink,Electronics,60,2026-02-15,True,True,delivered_ok
+126,11,Language Learning App,Digital,25,2026-04-20,True,False,delivered_ok
+127,12,Monitor Arm,Electronics,75,2026-06-13,False,True,awaiting_delivery
+128,13,Digital Art Pack,Digital,14,2026-06-07,True,False,delivered_ok
